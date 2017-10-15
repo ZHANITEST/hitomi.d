@@ -1,0 +1,10 @@
+{
+	"name": "hitomi.d",
+	"targetType": "library",
+	"authors": [
+		"ZHANITEST"
+	],
+	"description": "",
+	"copyright": "Copyleft LGPLv2 2017, ZHANI",
+	"license": "LGPL v2"
+}
