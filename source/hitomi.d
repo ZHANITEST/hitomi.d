@@ -5,6 +5,9 @@
  * - LGPL v2
  * - zhanitest
  */
+
+module hitomi;
+
 import std.stdio;
 import std.string;
 import std.json;
