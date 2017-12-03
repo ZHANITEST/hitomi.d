@@ -7,7 +7,7 @@ so you should clone and add with 'local-add' command 👇
 ```.shell
 git clone https://github.com/zhanitest/hitomi.d
 cd hitomi.d
-dub add ./
+dub add-local ./
 ```
 
 and, add `"hitomi.d":"~master"` on your project 'dependencies' section.
