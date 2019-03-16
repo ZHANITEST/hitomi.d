@@ -45,7 +45,5 @@ void main()
 
 
 ## Donate(기부)
-  - BTC: 12ooFjmj5cihS3DU1uj4qQDKpkqGAN8oU3
-  - ETH: 0x405db2f70ffd6fa5b55245bac91e0020fbc6a9d4
-  - XRP: rsG1sNifXJxGS2nDQ9zHyoe1S5APrtwpjV / 1000009096
+  - PIVX: DSMKB3ujWmjUq3DCCCxZsv8DAw1JkfMLcg
 👍 
