@@ -41,9 +41,3 @@ void main()
 }
 
 ```
-
-
-
-## Donate(기부)
-  - PIVX: DQB7eVihVu4zLXHXcjvfJ2dFEpDZfkReiU
-👍 
